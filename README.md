@@ -1,16 +1,39 @@
-# flutter_whatsapp
+# Application Yowyob H!
 
-A flutter application clone of whatsapp
+application mobile de messagerie instantannée
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Version SDK flutter utilisé pour le développement: 2.2.3
+Les dépendances du projet sont dans le fichier pubspec.yaml
+Pour récupérer les dépendance du projet tapez la commande:  flutter pub get
+Faites un "Run" du projet pour lancer l'application.
 
-A few resources to get you started if this is your first Flutter project:
+## Description des Dépendances du projet
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- emoji_picker: gestion des émojis
+- camera: intéraction avec la camera
+- video_player: lecture des vidéos
+- image_picker: gestion des images
+- cached_network_image: sauvegarde des images dans le cache de l'application
+- sqflite: gestion de base de données sqlite du téléphone
+- contact_service: interaction avec le gestionnaire de contact du téléphone
+- flutter_local_notifications: gestion des push-notifications
+- flutter_sms: interaction avec l'application sms
+- flutter_otp: gestion de l'authentification OTP
+- photo_manager: Interaction avec la gallerie d'image/vidéos du téléphone
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Structure des fichiers du projet
+
+- Le répertoire "lib/CustomUI" et "lib/my_Widgets" comporte les composants du projet
+- Le répertoire "lib/Pages", "lib/Screens" et "lib/NewScreen" comporte toutes les pages du projet
+- Le répertoire "lib/database" comporte les fichiers de gestion de la base de données du téléphone
+- Le répertoire "lib/Model" comporte les fichiers définissant le Modèle de l'application
+- Le répertoire "lib/utils" comporte les fichiers utiles tels que:
+    - DateHelper.dart: pour le formatage de date
+    - FileStoragePhone.dart: pour la gestion du stockage locale au niveau du téléphone
+    - global_variable.dart: pour les variables globales du projet
+    - LocalNotification.dart: pour les push-notifications du projet
+    - network_util.dart: les fonctions de communication du module http/websocket
+
+## Ressources du projet
