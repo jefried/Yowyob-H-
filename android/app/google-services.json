@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751004597944",
+    "firebase_url": "https://flutteryowyob-default-rtdb.firebaseio.com",
+    "project_id": "flutteryowyob",
+    "storage_bucket": "flutteryowyob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751004597944:android:e59f8077cedaeaadf57e4d",
+        "android_client_info": {
+          "package_name": "com.sondi.flutter_whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751004597944-saqrlf7hn4krea856g0g6lhvjh8u7l7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANrgoWuKDWBzHTOQoY0s-O74DE7Cg4GBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751004597944-saqrlf7hn4krea856g0g6lhvjh8u7l7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
