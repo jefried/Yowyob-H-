@@ -8,6 +8,7 @@ application mobile de messagerie instantannée
 - Les dépendances du projet sont dans le fichier pubspec.yaml
 - Pour récupérer les dépendance du projet tapez la commande:  flutter pub get
 - Faites un "Run" du projet pour lancer l'application.
+- Allez dans les paramètres du téléphone, donner toutes les permissions requises par l'application yowyob H!
 
 ## Description des Dépendances du projet
 
@@ -22,6 +23,7 @@ application mobile de messagerie instantannée
 - flutter_sms : interaction avec l'application sms
 - flutter_otp : gestion de l'authentification OTP
 - photo_manager : Interaction avec la gallerie d'image/vidéos du téléphone
+- social_media_widgets: pour la mise en place des statuts/stories de même type que whatsapp et instagram
 
 ## Structure des fichiers du projet
 
