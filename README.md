@@ -4,24 +4,24 @@ application mobile de messagerie instantannée
 
 ## Getting Started
 
-Version SDK flutter utilisé pour le développement: 2.2.3
-Les dépendances du projet sont dans le fichier pubspec.yaml
-Pour récupérer les dépendance du projet tapez la commande:  flutter pub get
-Faites un "Run" du projet pour lancer l'application.
+- Version SDK flutter utilisé pour le développement: 1.22.3
+- Les dépendances du projet sont dans le fichier pubspec.yaml
+- Pour récupérer les dépendance du projet tapez la commande:  flutter pub get
+- Faites un "Run" du projet pour lancer l'application.
 
 ## Description des Dépendances du projet
 
-- emoji_picker: gestion des émojis
-- camera: intéraction avec la camera
-- video_player: lecture des vidéos
-- image_picker: gestion des images
-- cached_network_image: sauvegarde des images dans le cache de l'application
-- sqflite: gestion de base de données sqlite du téléphone
-- contact_service: interaction avec le gestionnaire de contact du téléphone
-- flutter_local_notifications: gestion des push-notifications
-- flutter_sms: interaction avec l'application sms
-- flutter_otp: gestion de l'authentification OTP
-- photo_manager: Interaction avec la gallerie d'image/vidéos du téléphone
+- emoji_picker : gestion des émojis
+- camera : intéraction avec la camera
+- video_player : lecture des vidéos
+- image_picker : gestion des images
+- cached_network_image : sauvegarde des images dans le cache de l'application
+- sqflite : gestion de base de données sqlite du téléphone
+- contact_service : interaction avec le gestionnaire de contact du téléphone
+- flutter_local_notifications : gestion des push-notifications
+- flutter_sms : interaction avec l'application sms
+- flutter_otp : gestion de l'authentification OTP
+- photo_manager : Interaction avec la gallerie d'image/vidéos du téléphone
 
 ## Structure des fichiers du projet
 
