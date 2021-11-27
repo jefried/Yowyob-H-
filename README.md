@@ -24,6 +24,7 @@ application mobile de messagerie instantannée
 - flutter_otp : gestion de l'authentification OTP
 - photo_manager : Interaction avec la gallerie d'image/vidéos du téléphone
 - social_media_widgets: pour la mise en place des statuts/stories de même type que whatsapp et instagram
+- firebase_auth: dépendance utilisée pour l'authentification à firebase pour envoyer des sms d'authentification.
 
 ## Structure des fichiers du projet
 
@@ -37,5 +38,3 @@ application mobile de messagerie instantannée
     - global_variable.dart: pour les variables globales du projet
     - LocalNotification.dart: pour les push-notifications du projet
     - network_util.dart: les fonctions de communication du module http/websocket
-
-## Ressources du projet
