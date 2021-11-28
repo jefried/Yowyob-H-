@@ -38,3 +38,6 @@ application mobile de messagerie instantannée
     - global_variable.dart: pour les variables globales du projet
     - LocalNotification.dart: pour les push-notifications du projet
     - network_util.dart: les fonctions de communication du module http/websocket
+   
+- Le fichier "messagerie.rar" comporte le backend spring boot du projet
+- Le fichier "memoire_corrigé.pdf" comporte le mémoire du projet
